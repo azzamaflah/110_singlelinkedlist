@@ -21,7 +21,7 @@ Node* START = NULL;
 		nodeBaru->name = nama;
 			
 		if (START == NULL || nim <= START->noMhs) { 
-			if (START != NULL && nim == START->noMhs)
+			if (START != NULL && nim == START->noMhs) 
 			{
 				cout << "NIM sudah ada" << endl;
 				return;
