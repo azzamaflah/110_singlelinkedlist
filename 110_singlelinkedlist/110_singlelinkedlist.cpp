@@ -18,4 +18,4 @@ Node* START = NULL;
 		cout << "Masukkan Nama :";
 		cin >> nama;
 		nodeBaru->noMhs = nim; 
-		nodeBaru->name = nama;
+		nodeBaru->name = nama; 
