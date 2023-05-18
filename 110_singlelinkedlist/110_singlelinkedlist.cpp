@@ -27,7 +27,7 @@ Node* START = NULL;
 				return;
 			}
 			nodeBaru->next = START; 
-			START = nodeBaru;
+			START = nodeBaru; 
 			return;
 
 		}
